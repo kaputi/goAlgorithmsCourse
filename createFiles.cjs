@@ -5,7 +5,6 @@ const files = [
   'DFSOnBST',
   'LRU',
   'LinearSearchList',
-  'BinarySearchList',
   'TwoCrystalBalls',
   'BubbleSort',
   'SinglyLinkedList',
@@ -28,7 +27,7 @@ const files = [
   'MinHeap',
 ];
 
-const done = ['TwoCrystalBalls'];
+const done = ['TwoCrystalBalls', 'BinarySearchList'];
 
 const getRandom = () => {
   let value = files[Math.floor(Math.random() * files.length)];
