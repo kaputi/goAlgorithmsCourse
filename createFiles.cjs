@@ -33,6 +33,7 @@ const done = [
   'DoublyLinkedList',
   'LinearSearchList',
   'MazeSolver',
+  'Stack',
   'TwoCrystalBalls',
 ];
 
