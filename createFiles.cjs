@@ -27,7 +27,14 @@ const files = [
   'MinHeap',
 ];
 
-const done = ['TwoCrystalBalls', 'BinarySearchList'];
+const done = [
+  'BinarySearchList',
+  'BubbleSort',
+  'DoublyLinkedList',
+  'LinearSearchList',
+  'MazeSolver',
+  'TwoCrystalBalls',
+];
 
 const getRandom = () => {
   let value = files[Math.floor(Math.random() * files.length)];
