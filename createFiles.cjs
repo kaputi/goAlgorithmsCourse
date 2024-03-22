@@ -6,7 +6,6 @@ const files = [
   'LRU',
   'SinglyLinkedList',
   'ArrayList',
-  'BTBFS',
   'CompareBinaryTrees',
   'DFSOnBST',
   'DFSGraphList',
@@ -17,8 +16,9 @@ const files = [
 ];
 
 const done = [
-  'BTPreOrder',
+  'BTBFS',
   'BTInOrder',
+  'BTPreOrder',
   'BTPostOrder',
   'BinarySearchList',
   'BubbleSort',
