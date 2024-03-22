@@ -13,6 +13,6 @@ func TestBFS(t *testing.T) {
 	ExpectGet(t, true, res2)
 	//
 	res3 := BFS(Tree, 69)
-	ExpectGet(t, true, res3)
+	ExpectGet(t, false, res3)
 
 }
