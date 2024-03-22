@@ -28,6 +28,9 @@ const files = [
 ];
 
 const done = [
+  'BTPreOrder',
+  'BTInOrder',
+  'BTPostOrder',
   'BinarySearchList',
   'BubbleSort',
   'DoublyLinkedList',
