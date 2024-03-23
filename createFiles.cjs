@@ -4,14 +4,13 @@ const fs = require('fs');
 const files = [
   'DFSOnBST',
   'LRU',
-  'SinglyLinkedList',
-  'ArrayList',
+  'SinglyLinkedList',//
+  'ArrayList',//
   'DFSOnBST',
   'DFSGraphList',
   'Trie',
   'BFSGraphMatrix',
-  'Map',
-  'MinHeap',
+  'Map',//
 ];
 
 const done = [
@@ -25,6 +24,7 @@ const done = [
   'DoublyLinkedList',
   'LinearSearchList',
   'MazeSolver',
+  'MinHeap',
   'Queue',
   'QuickSort',
   'Stack',
